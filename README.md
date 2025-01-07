@@ -1,4 +1,4 @@
-# Sociallytics - Social Media Performance Analysis
+# Sociallytics - Social Media Performance Analyzer
 
 A simple and effective analytics tool developed for the **Level Supermind Hackathon Pre-Hackathon Assignment**. This tool uses **Langflow**, **DataStax Astra DB**, and **Groq** to analyze engagement metrics from mock social media accounts and generate actionable insights. The application leverages Flask for the backend and integrates Chart.js for data visualization.
 
